@@ -1,0 +1,7 @@
+name: freeze
+main: com.ConorGrocock.src.freeze
+version: 1.0
+commands:
+   freeze:
+      description: Teleport the player(s)
+      usage: /heal
